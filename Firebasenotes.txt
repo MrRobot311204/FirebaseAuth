@@ -1,0 +1,5 @@
+1. first create your app on firebase and then add the configurations to the web app 
+go and see ../Config/FirebaseSetup.js file and there you will get it 
+
+2. then just import the methods that you are using 
+for example if you are using authentication simply go on Register and Login.jsx to view how you did it
